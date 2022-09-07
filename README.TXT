@@ -1,12 +1,15 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Encrypted Networking Model
+PURPOSE OF PROJECT: Practice and explore many 
+VERSION or DATE: V0.92
+AUTHORS: Hoang Nguyen
+USER INSTRUCTIONS: Just using the encryption method in the library 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Inside is the multiple cryptographic function including but not limited to:
+- RSA
+- PBKDF2
+- SHA512, SHA256 (hash function)
+- Blake2
+- Blowfish
+- bcrypt
+
+Each are in their respective class. So you can use this library to implement security and privacy in your system
