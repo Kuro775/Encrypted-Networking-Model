@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HMAC_SHA256
+comment1.params=key\ msg
+comment1.target=java.lang.String\ generateMAC(java.lang.String,\ java.lang.String)
+comment2.params=key\ msg
+comment2.target=byte[]\ generateMAC(byte[],\ byte[])
+comment3.params=b1\ b2
+comment3.target=byte[]\ concat(byte[],\ byte[])
+comment4.params=bytes
+comment4.target=byte[]\ pad(byte[])
+numComments=5

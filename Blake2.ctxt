@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Blake2
+comment1.params=
+comment1.target=java.lang.String\ algorithm()
+comment10.params=
+comment10.target=byte[]\ digest()
+comment2.params=
+comment2.target=int\ length()
+comment3.params=
+comment3.target=Blake2\ copy()
+comment4.params=
+comment4.target=Blake2\ reset()
+comment5.params=
+comment5.target=Blake2\ burn()
+comment6.params=input
+comment6.target=Blake2\ update(byte[])
+comment7.params=input\ off\ len
+comment7.target=Blake2\ update(byte[],\ int,\ int)
+comment8.params=input
+comment8.target=byte[]\ digest(byte[])
+comment9.params=input\ off\ len
+comment9.target=byte[]\ digest(byte[],\ int,\ int)
+numComments=11

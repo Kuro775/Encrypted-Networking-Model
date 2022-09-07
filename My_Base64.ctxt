@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=My_Base64
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=My_Base64.Encoder\ getMimeEncoder()
+comment3.params=s
+comment3.target=java.lang.String\ encode(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ decode(java.lang.String)
+comment5.params=
+comment5.target=My_Base64.Decoder\ getDecoder()
+comment6.params=
+comment6.target=My_Base64.Encoder\ getEncoder()
+numComments=7

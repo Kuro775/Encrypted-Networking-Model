@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Blowfish
+comment1.params=
+comment1.target=void\ main()
+comment10.params=salt\ key
+comment10.target=void\ expandKeyWithSalt(byte[],\ byte[])
+comment11.params=key
+comment11.target=void\ expandKey(byte[])
+comment12.params=base\ exp
+comment12.target=long\ pow(long,\ int)
+comment2.params=x
+comment2.target=int\ f(int)
+comment3.params=plain
+comment3.target=byte[]\ encrypt(java.lang.String)
+comment4.params=bytes
+comment4.target=byte[]\ encrypt(byte[])
+comment5.params=L\ R
+comment5.target=byte[]\ encrypt(int,\ int)
+comment6.params=bytes
+comment6.target=byte[]\ decrypt(byte[])
+comment7.params=L\ R
+comment7.target=byte[]\ decrypt(int,\ int)
+comment8.params=key
+comment8.target=void\ setKey(byte[])
+comment9.params=cost\ salt\ key
+comment9.target=void\ expensiveKeySetup(int,\ byte[],\ byte[])
+numComments=13

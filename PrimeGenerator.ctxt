@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PrimeGenerator
+comment1.params=n
+comment1.target=java.math.BigInteger\ generatePrime(int)
+comment2.params=n
+comment2.target=java.math.BigInteger\ generateLowLevelPrime(int)
+comment3.params=n
+comment3.target=java.math.BigInteger\ nBitOddRandom(int)
+comment4.params=n\ k
+comment4.target=boolean\ isMillerPrime(java.math.BigInteger,\ int)
+comment5.params=n\ d
+comment5.target=boolean\ millerTest(java.math.BigInteger,\ java.math.BigInteger)
+comment6.params=x\ y\ p
+comment6.target=java.math.BigInteger\ power(java.math.BigInteger,\ java.math.BigInteger,\ java.math.BigInteger)
+comment7.params=n
+comment7.target=java.math.BigInteger\ random(java.math.BigInteger)
+comment8.params=n
+comment8.target=boolean[]\ sieve(int)
+numComments=9

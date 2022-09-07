@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SCrypt
+comment1.params=
+comment1.target=void\ main()
+comment10.params=arr\ a\ b\ c\ d
+comment10.target=void\ QR(int[],\ int,\ int,\ int,\ int)
+comment11.params=bytes
+comment11.target=byte[]\ salsa20_8(byte[])
+comment2.params=msg\ salt\ n\ r\ p\ dkLen
+comment2.target=byte[]\ scrypt(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=msg\ salt\ n\ r\ p\ dkLen
+comment3.target=byte[]\ scrypt(java.lang.String,\ byte[],\ int,\ int,\ int,\ int)
+comment4.params=msg\ salt\ n\ r\ p\ dkLen
+comment4.target=byte[]\ scrypt(byte[],\ byte[],\ int,\ int,\ int,\ int)
+comment5.params=bytes\ iterations
+comment5.target=byte[]\ ROMix(byte[],\ int)
+comment6.params=n
+comment6.target=int\ binLog(int)
+comment7.params=bytes\ n
+comment7.target=int\ integerify(byte[],\ int)
+comment8.params=bytes
+comment8.target=byte[]\ blockMix(byte[])
+comment9.params=x\ n
+comment9.target=int\ ROTL(int,\ int)
+numComments=12

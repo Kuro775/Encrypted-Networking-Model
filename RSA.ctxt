@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RSA
+comment1.params=
+comment1.target=RSA()
+comment10.params=x
+comment10.target=java.math.BigInteger\ Base64ToBigInteger(java.lang.String)
+comment11.params=a\ m
+comment11.target=java.math.BigInteger\ modInverse(java.math.BigInteger,\ java.math.BigInteger)
+comment2.params=bit
+comment2.target=RSA(int)
+comment3.params=
+comment3.target=java.lang.String\ getPublicKey()
+comment4.params=str\ key
+comment4.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment5.params=str
+comment5.target=java.lang.String\ decrypt(java.lang.String)
+comment6.params=x\ y
+comment6.target=java.math.BigInteger\ lcm(java.math.BigInteger,\ java.math.BigInteger)
+comment7.params=x
+comment7.target=java.lang.String\ BigIntegerToString(java.math.BigInteger)
+comment8.params=x
+comment8.target=java.math.BigInteger\ StringToBigInteger(java.lang.String)
+comment9.params=x
+comment9.target=java.lang.String\ BigIntegerToBase64(java.math.BigInteger)
+numComments=12
